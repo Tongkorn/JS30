@@ -10,3 +10,5 @@
 > - Day-01 - [Drum kit](https://tongkorn.github.io/JS30/Day-01)
 > - Day-02 - [Clock](https://tongkorn.github.io/JS30/Day-02) 
 > - Day-03 - [Playing with CSS variables and JS](https://tongkorn.github.io/JS30/Day-03) 
+> - Day-04 - [Array Cardio Day 1](https://tongkorn.github.io/JS30/Day-04) 
+
